@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "Nom de votre extension",
+  "name": "e_taobao",
   "version": "1.0",
-  "description": "Description de votre extension",
+  "description": "faciliter l'achat en ligne avec taobao",
   "icons": {
-    "48": "icone.png"
+    "48": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQij0bY5oV6XgJMST64mzUb22Uf6eKV716fA&usqp=CAU"
   },
   "browser_action": {
     "default_icon": "icone.png",
